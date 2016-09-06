@@ -1,0 +1,23 @@
+# MacOS
+.DS_Store
+
+# IDEA
+**/.idea/
+**/*.iml
+
+# NetBeans
+**/nbproject/
+**/nb*.xml
+
+# Gradle
+**/.gradle/
+**/gradle/
+
+**/build/
+**/.build/
+**/out/
+**/.out/
+**/target/
+**/.target/
+
+**/.vertx/
